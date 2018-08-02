@@ -1,6 +1,9 @@
 # qhpt
 
 > A Vue.js project
+##vue+公众号开发
+##由于src文件夹文件超过100个文件，所以只能分开上传
+请把components文件夹放在src文件夹下
 
 ## Build Setup
 
