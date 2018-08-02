@@ -1,0 +1,60 @@
+.lun-study-container {
+  background: #eee;
+}
+.list-ul{
+  margin-top:0.11rem ;
+}
+.list-li{
+  margin:0.2rem 0.3rem 0 0.29rem;
+  background: #fff;
+  padding:0.25rem 0 0.36rem 0;
+  box-shadow: 2px 4px 20px 0px
+  rgba(228, 228, 228, 0.5);
+}
+.nick-p{
+  justify-content: space-between;
+  font-size: 0.28rem;
+  color: #2f2f2f;
+  margin-bottom:0.25rem;
+  padding:0 0.28rem 0 0.34rem;
+}
+.time{
+  font-size: 0.24rem;
+  color: #898989;
+}
+.tag{
+ padding:0.04rem 0.10rem;
+  line-height: normal;
+  text-align: center;
+  background-color: #e8f5fd;
+  border-radius: 6px;
+  font-size: 0.24rem;
+  color: #247edb;
+}
+.tag1 {
+  background-color: #faead8;
+  color: #fb5d07;
+}
+.tag-p{
+  border-bottom: 1px solid #eee;
+  padding:0 0.28rem 0.18rem 0.24rem;
+
+}
+.title{
+  font-size: 0.30rem;
+  color: #2f2f2f;
+  margin-top:0.26rem;
+  margin-bottom:0.21rem;
+  padding:0 0.28rem 0 0.34rem;
+
+
+}
+.content{
+  font-size: 0.26rem;
+  line-height: 0.36rem;
+  color: #898989;
+  overflow-x: hidden;
+  padding:0 0.28rem 0 0.34rem;
+
+
+}
