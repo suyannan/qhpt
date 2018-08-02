@@ -6,7 +6,7 @@ vue公众号开发
 
 ## Build Setup
 由于src和static文件夹文件超过100个文件，所以只能分开上传
-请把components文件夹放在src文件夹下，把css文件夹放在static文件夹下然后执行依赖安装
+请把components文件夹放在src文件夹下，把css文件夹放在static文件夹下，然后执行依赖安装
 ``` bash
 # install dependencies
 npm install
